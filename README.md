@@ -52,11 +52,11 @@ https://github.com/Adithya-13/PSBO-Stemanika.git
 |![](assets/majority_detail-admin.png)|![](assets/add_majority.png)|![](assets/detail_user.png)|![](assets/edit_user-admin.png)|
 
 |Dashboard (User)|Majority Detail (User)|User Status|
-|--|--|--|--|
+|--|--|--|
 |![](assets/dashboard.png)|![](assets/majority_detail.png)|![](assets/user_status.png)|
 
 |Edit User (User)|Print / Export PDF User Status|
-|--|--|--|--|
+|--|--|
 |![](assets/edit_user.png)|![](assets/print_export_pdf_user_status.png)|
 
 ## Features
