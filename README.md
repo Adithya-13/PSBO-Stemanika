@@ -34,7 +34,7 @@ The challenge here is that I created a databases with a relational table, i've n
 
 Clone or Download and Open it into Android Studio, VSCode, or Other IDE / Text Editor
 ```
-https://github.com/Adithya-13/psbo_stemanika.git
+https://github.com/Adithya-13/PSBO-Stemanika.git
 ```  
 
 ## Demo
