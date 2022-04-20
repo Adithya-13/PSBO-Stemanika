@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.png"/>
+  <img src="assets/cover.png"/>
 </p>
 
 ## Table of Contents
@@ -39,18 +39,25 @@ https://github.com/Adithya-13/PSBO-Stemanika.git
 
 ## Demo
 
-|Login|Home|
-|--|--|
-|![](assets/login.gif)|![](assets/home.gif?raw=true)|
+|Login|Register|Dashboard (Admin)|Verify List|
+|--|--|--|--|
+|![](assets/login.png)|![](assets/register.png)|![](assets/dashboard-admin.png)|![](assets/verify_list.png)|
 
-|Detail Candidate|Vote|
-|--|--|
-|![](assets/detail_candidate.gif)|![](assets/vote.gif)|
+|Accepted List|Reserved List|Rejected List|Majority List|
+|--|--|--|--|
+|![](assets/accepted_list.png)|![](assets/reserved_list.png)|![](assets/rejected_list.png)|![](assets/majority_list.png)|
 
+|Majority Detail (Admin)|Add Majority|Detail User|Edit User (Admin)|
+|--|--|--|--|
+|![](assets/majority_detail-admin.png)|![](assets/add_majority.png)|![](assets/detail_user.png)|![](assets/edit_user-admin.png)|
 
-|Quick Count|Profile|
-|--|--|
-|![](assets/quick_count.gif)|![](assets/profile.gif)|
+|Dashboard (User)|Majority Detail (User)|User Status|
+|--|--|--|--|
+|![](assets/dashboard.png)|![](assets/majority_detail.png)|![](assets/user_status.png)|
+
+|Edit User (User)|Print / Export PDF User Status|
+|--|--|--|--|
+|![](assets/edit_user.png)|![](assets/print_export_pdf_user_status.png)|
 
 ## Features
 - Admin
